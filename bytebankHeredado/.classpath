@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="bytebankHeredado/com/bytebankHeredado/test/|bytebankHeredado/com.bytebankHeredado.test/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/bytebankHeredado/com.bytebankHeredado.test"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
